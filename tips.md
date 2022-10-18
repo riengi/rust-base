@@ -1,5 +1,9 @@
 # Useful Rust tips
 
+## Restart cargo on on change
+```cargo install cargo-watch```
+```cargo watch -x run```
+
 ## Minimize Rust Binaries
 
 ### Release build 
